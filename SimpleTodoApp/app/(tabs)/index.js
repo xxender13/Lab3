@@ -49,7 +49,7 @@ export default function App() {
         { id: Date.now().toString(), text: task, completed: false },
       ]);
       setTask('');
-      fadeIn(); // Trigger the fade-in animation when a new task is added
+      fadeIn(); 
     }
   };
 
