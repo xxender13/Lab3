@@ -28,7 +28,7 @@ In this task, I set up the development environment to build React Native applica
 ### Screenshots
 
 #### Android SDK Setup in Android Studio
-<img src="Screenshots/Task1/SDK Setup" alt="" width="300" />
+<img src="Screenshots/Task1/SDK Setup.jpg" alt="" width="300" />
 
 #### Metro Bundler Started in Terminal
 <img src="Screenshots/Task1/Startmetrobumdler.jpg" alt="Metro Bundler Started" width="400" />
@@ -60,7 +60,7 @@ In this task, I built a simple To-Do List application using React Native. The ap
 ### Screenshots
 
 #### Setting up the To-Do List Project
-<img src="Screenshots/Task2/Settingup the project" alt="" width="300" />
+<img src="Screenshots/Task2/Settingup the project.jpg" alt="" width="300" />
 
 #### Adding Tasks to the To-Do List on Emulator
 <img src="Screenshots/Task2/task%20on%20emu.jpg" alt="Adding Tasks on Emulator" width="400" />
